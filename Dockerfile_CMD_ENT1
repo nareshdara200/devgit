@@ -1,3 +1,0 @@
-FROM ubuntu
-CMD ["ls" ,"ltr"]
-ENTRYPOINT ["echo"]
